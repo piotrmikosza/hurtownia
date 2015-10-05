@@ -1,0 +1,2 @@
+# hurtownia
+Projekt Hurtownia Danych
